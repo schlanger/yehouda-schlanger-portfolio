@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Portfolio Yehouda Schlanger</title>
+  <desc id="desc">Prévisualisation du portfolio Ingénieur DevOps et Cloud de Yehouda Schlanger.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07111f" />
+      <stop offset="100%" stop-color="#0d1d34" />
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientTransform="translate(220 120) rotate(55) scale(420 360)">
+      <stop offset="0%" stop-color="#33d1c6" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#33d1c6" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientTransform="translate(1020 140) rotate(120) scale(340 280)">
+      <stop offset="0%" stop-color="#ff8b5e" stop-opacity="0.28" />
+      <stop offset="100%" stop-color="#ff8b5e" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#33d1c6" />
+      <stop offset="100%" stop-color="#58f7d4" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <rect width="1200" height="630" fill="url(#glowA)" />
+  <rect width="1200" height="630" fill="url(#glowB)" />
+  <rect x="54" y="54" width="1092" height="522" rx="30" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.10)" />
+  <rect x="90" y="92" width="84" height="84" rx="24" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.14)" />
+  <text x="132" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="url(#accent)">YS</text>
+  <text x="90" y="240" font-family="Arial, sans-serif" font-size="18" letter-spacing="3" fill="#33d1c6">INGÉNIEUR DEVOPS / CLOUD</text>
+  <text x="90" y="315" font-family="Arial, sans-serif" font-size="56" font-weight="700" fill="#ecf4ff">Yehouda Schlanger</text>
+  <text x="90" y="372" font-family="Arial, sans-serif" font-size="28" fill="#d7e5f7">3 ans d'expérience en alternance chez Alten</text>
+  <text x="90" y="438" font-family="Arial, sans-serif" font-size="24" fill="#9cb3ce">Cloud, Terraform, Kubernetes, Ansible AWX, DevSecOps</text>
+  <g transform="translate(90 486)">
+    <rect width="236" height="48" rx="24" fill="rgba(51,209,198,0.12)" stroke="rgba(51,209,198,0.24)" />
+    <text x="118" y="31" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#d8fff8">Disponible octobre 2026</text>
+  </g>
+</svg>
